@@ -1,0 +1,17 @@
+{
+  "appTitle": "占星星历表",
+  "birthChart": {
+    "title": "本命盘设置",
+    "dateTime": "出生日期和时间:",
+    "city": "出生城市:",
+    "timezone": "时区:",
+    "planets": "选择行星:",
+    "positions": "行星位置:",
+    "loading": "正在获取行星数据..."
+  },
+  "calendar": {
+    "selectPlanets": "选择行星",
+    "selectAspects": "选择相位",
+    "legend": "相位图例"
+  }
+}

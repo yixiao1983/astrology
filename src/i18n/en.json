@@ -1,0 +1,17 @@
+{
+  "appTitle": "Astrology Ephemeris",
+  "birthChart": {
+    "title": "Birth Chart Settings",
+    "dateTime": "Date and Time of Birth:",
+    "city": "Birth City:",
+    "timezone": "Timezone:",
+    "planets": "Select Planets:",
+    "positions": "Planetary Positions:",
+    "loading": "Loading planetary data..."
+  },
+  "calendar": {
+    "selectPlanets": "Select Planets",
+    "selectAspects": "Select Aspects",
+    "legend": "Aspect Legend"
+  }
+}
