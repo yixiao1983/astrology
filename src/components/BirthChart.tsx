@@ -25,7 +25,7 @@ const BirthChart: React.FC<BirthChartProps> = ({ onBirthDataChange }) => {
   const [location, setLocation] = useState<GeoLocation>({
     city: '',
     country: '',
-    timezone: 'UTC',
+    timezone: Intl.DateTimeFormat().resolvedOptions().timeZone || 'UTC',
     latitude: 0,
     longitude: 0
   });
